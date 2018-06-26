@@ -4,6 +4,8 @@ class Solution:
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
+        
+        HashMap
         """
         if len(nums)<=0:
             return False
